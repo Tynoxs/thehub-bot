@@ -1,7 +1,9 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "HubBot",
+  "description": "HubBot",
   "version": "0.0.0",
+  "prefix": "~",
+  "mention" : "@",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
